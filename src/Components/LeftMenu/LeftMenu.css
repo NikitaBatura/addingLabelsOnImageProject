@@ -1,0 +1,15 @@
+.leftMenu{
+    max-height: 100%;
+    width: 250px;
+    background-color: #264653;
+    padding-left: 20px;
+    color: whitesmoke;
+}
+.leftMenuTag__allocated{
+    cursor: pointer;
+    color: red;
+}
+.leftMenuTag__unselected{
+    color: whitesmoke;
+    cursor: pointer;
+}
